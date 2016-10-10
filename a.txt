@@ -5,3 +5,4 @@ Git tracks changes.
 i'm here
 i am dev branch.
 commit second time.
+creating a new branch is quick and simple.
